@@ -1,4 +1,4 @@
-datacourera
+datacousera
 ===========
 
 coursera coursework
